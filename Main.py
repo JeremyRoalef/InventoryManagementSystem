@@ -1,3 +1,4 @@
+#Jeremy Roalef
 #this program will store the main process of the project.
 from Product import Product
 from LinkedList import LinkedList

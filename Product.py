@@ -1,3 +1,4 @@
+#Jeremy Roalef
 class Product:
     # Initialize product with an ID, Name, Price, & Quantity. If no quantity given, set to 0
     def __init__(self, product_id, product_name, product_price, product_quantity=0):

@@ -1,3 +1,4 @@
+#Jeremy Roalef
 #import necessary classes. Stack, linkedList
 from LinkedList import LinkedList
 from Stack import Stack

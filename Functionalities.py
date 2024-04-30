@@ -1,3 +1,4 @@
+#Jeremy Roalef
 #class idea for storing functionalities for the program
 class Functionalities:
     def __init__(self, name, text, permissions):

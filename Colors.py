@@ -1,3 +1,4 @@
+#Jeremy Roalef
 #this class will store various ANSI values to color code the text in the console
 #Credit for idea: ChatGPT.
 #
